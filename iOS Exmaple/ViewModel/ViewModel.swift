@@ -21,3 +21,8 @@ class ViewModel: ObservableObject {
         data = try await provider.getData().get()
     }
 }
+
+
+
+
+
